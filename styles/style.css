@@ -1,5 +1,6 @@
 body{
 	background: #EAECF1; 
+	background: #EAECF1; 
 }
 .global-color{
 	color: #005cb9;
@@ -8,6 +9,7 @@ body{
 
 }
 .box-1{
+	border-top-left-radius: 5px;
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 }

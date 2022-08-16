@@ -8,8 +8,6 @@
 * Copyright 2018 Creative Tim (https://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md)
 
-* Coded by www.creative-tim.com
-
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -17,8 +15,8 @@
 */
 :root
 {
-    --blue: #5e72e4;
     --indigo: #5603ad;
+    --blue: #5e72e4;
     --purple: #8965e0;
     --pink: #f3a4b5;
     --red: #f5365c;
