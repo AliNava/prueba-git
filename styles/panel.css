@@ -9,6 +9,8 @@ $tab-text          : #5d5d5d;
 $white			       : #fff;
 $reviews-text-black: #363636;
 $white-light-gray  : #f9f9f9;
+$white-light-gray  : #f9f9f9;
+$white-light-gray  : #f9f9f9;
 
 @mixin user-select() {
     user-select: none;
